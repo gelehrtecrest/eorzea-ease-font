@@ -2,7 +2,7 @@
 .appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
-h
+j
 );
 date = "2022-10-22 14:14:09 +0000";
 familyName = EorzeaEase;
@@ -1947,20 +1947,70 @@ unicode = 104;
 },
 {
 glyphname = i;
+lastChange = "2022-10-28 06:35:06 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+};
+closed = 1;
+nodes = (
+(30,0,l),
+(105,0,l),
+(105,600,l),
+(30,600,l)
+);
+}
+);
+width = 135;
 }
 );
 unicode = 105;
 },
 {
 glyphname = j;
+lastChange = "2022-10-28 06:37:29 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+};
+closed = 1;
+nodes = (
+(30,700,o),
+(30,350,o),
+(30,175,c),
+(30,75,o),
+(105,0,o),
+(230,0,c),
+(355,0,o),
+(430,75,o),
+(430,175,c),
+(430,175,o),
+(355,175,o),
+(355,175,c),
+(355,175,o),
+(355,75,o),
+(230,75,c),
+(105,75,o),
+(105,200,o),
+(105,200,c),
+(105,325,l),
+(430,325,l),
+(430,400,l),
+(105,400,l),
+(105,700,l),
+(30,700,l)
+);
+}
+);
+width = 460;
 }
 );
 unicode = 106;
