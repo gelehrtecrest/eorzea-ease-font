@@ -2,7 +2,7 @@
 .appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
-s
+h
 );
 date = "2022-10-22 14:14:09 +0000";
 familyName = EorzeaEase;
@@ -1893,7 +1893,7 @@ unicode = 103;
 },
 {
 glyphname = h;
-lastChange = "2022-10-26 14:39:42 +0000";
+lastChange = "2022-10-29 11:55:49 +0000";
 layers = (
 {
 layerId = m01;
@@ -1935,8 +1935,8 @@ nodes = (
 (180,350,o),
 (105,325,o),
 (105,325,c),
-(105,700,l),
-(30,700,l)
+(105,800,l),
+(30,800,l)
 );
 }
 );
