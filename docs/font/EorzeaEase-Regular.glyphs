@@ -1,9 +1,6 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-"?"
-);
 date = "2022-11-10 14:17:55 +0000";
 familyName = EorzeaEase;
 fontMaster = (
@@ -3814,7 +3811,7 @@ unicode = 33;
 },
 {
 glyphname = question;
-lastChange = "2022-11-10 14:25:26 +0000";
+lastChange = "2022-11-10 14:27:58 +0000";
 layers = (
 {
 layerId = m01;
@@ -3825,19 +3822,19 @@ fillColor = (0,255);
 };
 closed = 1;
 nodes = (
-(230,99,l),
-(257,99,o),
-(280,77,o),
-(280,50,c),
-(280,22,o),
-(257,0,o),
-(230,0,c),
-(202,0,o),
-(179,22,o),
-(179,50,c),
-(179,77,o),
 (202,99,o),
-(230,99,c)
+(179,77,o),
+(179,50,c),
+(179,22,o),
+(202,0,o),
+(230,0,c),
+(257,0,o),
+(280,22,o),
+(280,50,c),
+(280,77,o),
+(257,99,o),
+(230,99,c),
+(230,99,l)
 );
 },
 {
@@ -3915,5 +3912,5 @@ type = descender;
 );
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
